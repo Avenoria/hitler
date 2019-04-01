@@ -1,0 +1,32 @@
+#naglowek 
+{
+	background:yellow;
+        font-size:2em;
+text-align:center;
+}
+#tresc
+{
+	background-image:linear-gradient(to right,yellow,red,blue);
+color:white;
+ font-size:3em;
+text-align:center;
+}
+#drugi
+{
+	background-image:linear-gradient(to right,blue,red);
+ font-size:3em;
+text-align:center;
+}
+#stopka
+{ 
+	background-image:linear-gradient(to right,purple,pink);
+ font-size:3em;
+text-align:center;
+}
+ 
+#hitler 
+{
+	background:yellow;
+        font-size:2em;
+text-align:center;
+}
